@@ -1,0 +1,37 @@
+.imghomeDiv{
+float: left;
+width: 5%;
+margin-left: 31px;
+margin-bottom: 36px;
+margin-top: 14px;
+}
+.dashName{
+    float: left;
+    color: black;
+    margin-left: 12px;
+}
+.dashName1{
+    text-align: center;
+    color: black;
+
+}
+.App-general{
+    margin-left: 84px;
+}
+.App-GeneralInformations{
+    margin-left: 63px;
+}
+.App-engines{
+    margin-left: 70px;
+}
+.searchBtn{
+    float:right;
+}
+
+.goBtn{
+    float:right;
+}
+.hero-img {
+    width:100%;
+    max-height: 510px;
+}

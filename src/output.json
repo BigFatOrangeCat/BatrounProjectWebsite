@@ -1,0 +1,4 @@
+{
+    "deviceMessage":"{'id': 1579741192, 'params': {'temperature': 23.0, 'humidity': 65.0}, 'method': 'thing.event.property.post'}",
+    "deviceTopic":"/sys/a1fV9f6XxJc/DHT11_Sensor/thing/event/property/post"
+}

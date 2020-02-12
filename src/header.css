@@ -1,0 +1,66 @@
+.headerDiv{
+    width: 1300px;
+    background-color: #aeafb2;
+    height: 80px;
+}
+
+.imgDiv{
+    float: right !important;
+    padding-top: 25px;
+    padding-right: 20px;
+    margin-right: -20px;
+}
+
+.companyName{
+    margin-top: 27px;
+    font-size: larger;
+    color: black;
+}
+.w3-wide {
+    font-family: "Lucida Sans";
+    margin-left: 0px;
+}
+.w3-bar {
+    position: relative;
+    z-index: 4;
+    font-size: 17px;
+}
+.w3-theme {
+    color: #fff !important;
+    
+}
+.w3-card, .w3-card-2 {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.w3-bar {
+    width: 100%;
+    overflow: hidden;
+}
+.w3-wide {
+    letter-spacing: 2px;
+    height: 100%;
+    
+}
+.imgDiv{
+    width: 75px;
+    margin-top: -17px;
+    float: left!important;
+}
+.signUpBtn{
+    float: right;
+    background-color: darkcyan;
+    width: 60px;
+    height: 35px;
+    margin-top: -56px;
+    margin-right: 128px;
+      
+}
+.loginBtn{
+    margin-right: 57px;
+    background-color: darkcyan;
+    width: 60px;
+    height: 35px;
+    float: right;
+    margin-top: -56px;
+    margin-left: 50px;
+}
